@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rlima\\Desktop\\Rodexo\\C#II\\LojaNet.Models\\LojaNet.Models.csproj",
+      "projectUniqueName": "C:\\Users\\rlima\\Desktop\\Rodexo\\C-II---Impacta\\C#II\\LojaNet.Models\\LojaNet.Models.csproj",
       "projectName": "LojaNet.Models",
-      "projectPath": "C:\\Users\\rlima\\Desktop\\Rodexo\\C#II\\LojaNet.Models\\LojaNet.Models.csproj",
+      "projectPath": "C:\\Users\\rlima\\Desktop\\Rodexo\\C-II---Impacta\\C#II\\LojaNet.Models\\LojaNet.Models.csproj",
       "packagesPath": "C:\\Users\\rlima\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rlima\\Desktop\\Rodexo\\C#II\\LojaNet.Models\\obj\\",
+      "outputPath": "C:\\Users\\rlima\\Desktop\\Rodexo\\C-II---Impacta\\C#II\\LojaNet.Models\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rlima\\AppData\\Roaming\\NuGet\\NuGet.Config",

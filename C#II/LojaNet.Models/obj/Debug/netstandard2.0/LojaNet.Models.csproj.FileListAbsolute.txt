@@ -1,0 +1,8 @@
+C:\Users\rlima\Desktop\Rodexo\C-II---Impacta\C#II\LojaNet.Models\bin\Debug\netstandard2.0\LojaNet.Models.deps.json
+C:\Users\rlima\Desktop\Rodexo\C-II---Impacta\C#II\LojaNet.Models\bin\Debug\netstandard2.0\LojaNet.Models.dll
+C:\Users\rlima\Desktop\Rodexo\C-II---Impacta\C#II\LojaNet.Models\bin\Debug\netstandard2.0\LojaNet.Models.pdb
+C:\Users\rlima\Desktop\Rodexo\C-II---Impacta\C#II\LojaNet.Models\obj\Debug\netstandard2.0\LojaNet.Models.csprojAssemblyReference.cache
+C:\Users\rlima\Desktop\Rodexo\C-II---Impacta\C#II\LojaNet.Models\obj\Debug\netstandard2.0\LojaNet.Models.AssemblyInfoInputs.cache
+C:\Users\rlima\Desktop\Rodexo\C-II---Impacta\C#II\LojaNet.Models\obj\Debug\netstandard2.0\LojaNet.Models.AssemblyInfo.cs
+C:\Users\rlima\Desktop\Rodexo\C-II---Impacta\C#II\LojaNet.Models\obj\Debug\netstandard2.0\LojaNet.Models.dll
+C:\Users\rlima\Desktop\Rodexo\C-II---Impacta\C#II\LojaNet.Models\obj\Debug\netstandard2.0\LojaNet.Models.pdb

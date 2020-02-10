@@ -1,0 +1,11 @@
+C:\Users\rlima\Desktop\Rodexo\C-II---Impacta\C#II\LojaNet.DAL\bin\Debug\netstandard2.0\LojaNet.DAL.deps.json
+C:\Users\rlima\Desktop\Rodexo\C-II---Impacta\C#II\LojaNet.DAL\bin\Debug\netstandard2.0\LojaNet.DAL.dll
+C:\Users\rlima\Desktop\Rodexo\C-II---Impacta\C#II\LojaNet.DAL\bin\Debug\netstandard2.0\LojaNet.DAL.pdb
+C:\Users\rlima\Desktop\Rodexo\C-II---Impacta\C#II\LojaNet.DAL\bin\Debug\netstandard2.0\LojaNet.Models.dll
+C:\Users\rlima\Desktop\Rodexo\C-II---Impacta\C#II\LojaNet.DAL\bin\Debug\netstandard2.0\LojaNet.Models.pdb
+C:\Users\rlima\Desktop\Rodexo\C-II---Impacta\C#II\LojaNet.DAL\obj\Debug\netstandard2.0\LojaNet.DAL.csprojAssemblyReference.cache
+C:\Users\rlima\Desktop\Rodexo\C-II---Impacta\C#II\LojaNet.DAL\obj\Debug\netstandard2.0\LojaNet.DAL.AssemblyInfoInputs.cache
+C:\Users\rlima\Desktop\Rodexo\C-II---Impacta\C#II\LojaNet.DAL\obj\Debug\netstandard2.0\LojaNet.DAL.AssemblyInfo.cs
+C:\Users\rlima\Desktop\Rodexo\C-II---Impacta\C#II\LojaNet.DAL\obj\Debug\netstandard2.0\LojaNet.DAL.csproj.CopyComplete
+C:\Users\rlima\Desktop\Rodexo\C-II---Impacta\C#II\LojaNet.DAL\obj\Debug\netstandard2.0\LojaNet.DAL.dll
+C:\Users\rlima\Desktop\Rodexo\C-II---Impacta\C#II\LojaNet.DAL\obj\Debug\netstandard2.0\LojaNet.DAL.pdb
