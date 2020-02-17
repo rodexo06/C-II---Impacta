@@ -10,29 +10,47 @@ namespace LojaNet.BLL
     // Cmada de Validação de dados, regra de negocio
     public class ClienteBLL : IClienteDAL
     {
+        private ClienteDAL dal;
+        public ClienteBLL()
+        {
+            this.dal = new ClienteDAL();
+        }
         public void Alterar(Cliente cliente)
         {
-            throw new NotImplementedException();
+            Validar(cliente);
+            if (string.IsNullOrEmpty(cliente.Id))
+            {
+                throw new ApplicationException("O Id deve ser informado");
+            }
+            dal.Alterar(cliente);
         }
 
         public void Excluir(string id)
         {
-            throw new NotImplementedException();
+            if (string.IsNullOrEmpty(id))
+            {
+                throw new ApplicationException("O Id deve ser informado");
+            }
+            dal.Excluir(id);
         }
 
         public void Incluir(Cliente cliente)
         {
-            if (string.IsNullOrEmpty(cliente.Nome))
-            {
-                throw new ApplicationException("O nome já existe");
-            }
+            Validar(cliente);
             if (string.IsNullOrEmpty(cliente.Id))
             {
                 cliente.Id = Guid.NewGuid().ToString();
             }
 
-            var dal = new ClienteDAL();
             dal.Incluir(cliente);
+        }
+
+        private static void Validar(Cliente cliente)
+        {
+            if (string.IsNullOrEmpty(cliente.Nome))
+            {
+                throw new ApplicationException("O nome já existe");
+            }
         }
 
         public Cliente ObterporEmail(string email)
@@ -42,12 +60,13 @@ namespace LojaNet.BLL
 
         public Cliente ObterporId(string id)
         {
-            throw new NotImplementedException();
+            return dal.ObterporId(id);
         }
 
         public List<Cliente> ObterTodosClientes()
         {
-            throw new NotImplementedException();
+            var lista = dal.ObterTodosClientes();
+            return lista;
         }
     }
 }

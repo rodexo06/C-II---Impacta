@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rlima\\Desktop\\Rodexo\\C-II---Impacta\\C#II\\LojaNet.BLL\\LojaNet.BLL.csproj": {}
+    "C:\\Users\\rafin\\Desktop\\Softwares\\C-II---Impacta\\C#II\\LojaNet.BLL\\LojaNet.BLL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rlima\\Desktop\\Rodexo\\C-II---Impacta\\C#II\\LojaNet.BLL\\LojaNet.BLL.csproj": {
+    "C:\\Users\\rafin\\Desktop\\Softwares\\C-II---Impacta\\C#II\\LojaNet.BLL\\LojaNet.BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rlima\\Desktop\\Rodexo\\C-II---Impacta\\C#II\\LojaNet.BLL\\LojaNet.BLL.csproj",
+        "projectUniqueName": "C:\\Users\\rafin\\Desktop\\Softwares\\C-II---Impacta\\C#II\\LojaNet.BLL\\LojaNet.BLL.csproj",
         "projectName": "LojaNet.BLL",
-        "projectPath": "C:\\Users\\rlima\\Desktop\\Rodexo\\C-II---Impacta\\C#II\\LojaNet.BLL\\LojaNet.BLL.csproj",
-        "packagesPath": "C:\\Users\\rlima\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rlima\\Desktop\\Rodexo\\C-II---Impacta\\C#II\\LojaNet.BLL\\obj\\",
+        "projectPath": "C:\\Users\\rafin\\Desktop\\Softwares\\C-II---Impacta\\C#II\\LojaNet.BLL\\LojaNet.BLL.csproj",
+        "packagesPath": "C:\\Users\\rafin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rafin\\Desktop\\Softwares\\C-II---Impacta\\C#II\\LojaNet.BLL\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\rlima\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\rafin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -27,11 +30,11 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\rlima\\Desktop\\Rodexo\\C-II---Impacta\\C#II\\LojaNet.DAL\\LojaNet.DAL.csproj": {
-                "projectPath": "C:\\Users\\rlima\\Desktop\\Rodexo\\C-II---Impacta\\C#II\\LojaNet.DAL\\LojaNet.DAL.csproj"
+              "C:\\Users\\rafin\\Desktop\\Softwares\\C-II---Impacta\\C#II\\LojaNet.DAL\\LojaNet.DAL.csproj": {
+                "projectPath": "C:\\Users\\rafin\\Desktop\\Softwares\\C-II---Impacta\\C#II\\LojaNet.DAL\\LojaNet.DAL.csproj"
               },
-              "C:\\Users\\rlima\\Desktop\\Rodexo\\C-II---Impacta\\C#II\\LojaNet.Models\\LojaNet.Models.csproj": {
-                "projectPath": "C:\\Users\\rlima\\Desktop\\Rodexo\\C-II---Impacta\\C#II\\LojaNet.Models\\LojaNet.Models.csproj"
+              "C:\\Users\\rafin\\Desktop\\Softwares\\C-II---Impacta\\C#II\\LojaNet.Models\\LojaNet.Models.csproj": {
+                "projectPath": "C:\\Users\\rafin\\Desktop\\Softwares\\C-II---Impacta\\C#II\\LojaNet.Models\\LojaNet.Models.csproj"
               }
             }
           }
@@ -50,6 +53,10 @@
               "target": "Package",
               "version": "[2.0.3, )",
               "autoReferenced": true
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.0, )"
             }
           },
           "imports": [
@@ -62,21 +69,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\rlima\\Desktop\\Rodexo\\C-II---Impacta\\C#II\\LojaNet.DAL\\LojaNet.DAL.csproj": {
+    "C:\\Users\\rafin\\Desktop\\Softwares\\C-II---Impacta\\C#II\\LojaNet.DAL\\LojaNet.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rlima\\Desktop\\Rodexo\\C-II---Impacta\\C#II\\LojaNet.DAL\\LojaNet.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\rafin\\Desktop\\Softwares\\C-II---Impacta\\C#II\\LojaNet.DAL\\LojaNet.DAL.csproj",
         "projectName": "LojaNet.DAL",
-        "projectPath": "C:\\Users\\rlima\\Desktop\\Rodexo\\C-II---Impacta\\C#II\\LojaNet.DAL\\LojaNet.DAL.csproj",
-        "packagesPath": "C:\\Users\\rlima\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rlima\\Desktop\\Rodexo\\C-II---Impacta\\C#II\\LojaNet.DAL\\obj\\",
+        "projectPath": "C:\\Users\\rafin\\Desktop\\Softwares\\C-II---Impacta\\C#II\\LojaNet.DAL\\LojaNet.DAL.csproj",
+        "packagesPath": "C:\\Users\\rafin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rafin\\Desktop\\Softwares\\C-II---Impacta\\C#II\\LojaNet.DAL\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\rlima\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\rafin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -89,8 +99,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\rlima\\Desktop\\Rodexo\\C-II---Impacta\\C#II\\LojaNet.Models\\LojaNet.Models.csproj": {
-                "projectPath": "C:\\Users\\rlima\\Desktop\\Rodexo\\C-II---Impacta\\C#II\\LojaNet.Models\\LojaNet.Models.csproj"
+              "C:\\Users\\rafin\\Desktop\\Softwares\\C-II---Impacta\\C#II\\LojaNet.Models\\LojaNet.Models.csproj": {
+                "projectPath": "C:\\Users\\rafin\\Desktop\\Softwares\\C-II---Impacta\\C#II\\LojaNet.Models\\LojaNet.Models.csproj"
               }
             }
           }
@@ -109,6 +119,10 @@
               "target": "Package",
               "version": "[2.0.3, )",
               "autoReferenced": true
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.0, )"
             }
           },
           "imports": [
@@ -121,21 +135,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\rlima\\Desktop\\Rodexo\\C-II---Impacta\\C#II\\LojaNet.Models\\LojaNet.Models.csproj": {
+    "C:\\Users\\rafin\\Desktop\\Softwares\\C-II---Impacta\\C#II\\LojaNet.Models\\LojaNet.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rlima\\Desktop\\Rodexo\\C-II---Impacta\\C#II\\LojaNet.Models\\LojaNet.Models.csproj",
+        "projectUniqueName": "C:\\Users\\rafin\\Desktop\\Softwares\\C-II---Impacta\\C#II\\LojaNet.Models\\LojaNet.Models.csproj",
         "projectName": "LojaNet.Models",
-        "projectPath": "C:\\Users\\rlima\\Desktop\\Rodexo\\C-II---Impacta\\C#II\\LojaNet.Models\\LojaNet.Models.csproj",
-        "packagesPath": "C:\\Users\\rlima\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rlima\\Desktop\\Rodexo\\C-II---Impacta\\C#II\\LojaNet.Models\\obj\\",
+        "projectPath": "C:\\Users\\rafin\\Desktop\\Softwares\\C-II---Impacta\\C#II\\LojaNet.Models\\LojaNet.Models.csproj",
+        "packagesPath": "C:\\Users\\rafin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rafin\\Desktop\\Softwares\\C-II---Impacta\\C#II\\LojaNet.Models\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\rlima\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\rafin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -164,6 +181,10 @@
               "target": "Package",
               "version": "[2.0.3, )",
               "autoReferenced": true
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.0, )"
             }
           },
           "imports": [
@@ -176,7 +197,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

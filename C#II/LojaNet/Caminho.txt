@@ -1,0 +1,2 @@
+Lembra que o projeto chama a pagina web, a partir do modelo definido na view e no controller
+Ai, a partir disso vai pro bll que é a validação do modelo de negocios, só a pos isso vai para a calsse de de repository do DAL, onde nela tbm chama qual é o tipo de metodo cahamdo
