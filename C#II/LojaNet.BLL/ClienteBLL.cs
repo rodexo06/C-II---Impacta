@@ -25,13 +25,13 @@ namespace LojaNet.BLL
             dal.Alterar(cliente);
         }
 
-        public void Excluir(string id)
+        public void Excluir(string id, string arquivo)
         {
             if (string.IsNullOrEmpty(id))
             {
                 throw new ApplicationException("O Id deve ser informado");
             }
-            dal.Excluir(id);
+            dal.Excluir(id, arquivo);
         }
 
         public void Incluir(Cliente cliente)

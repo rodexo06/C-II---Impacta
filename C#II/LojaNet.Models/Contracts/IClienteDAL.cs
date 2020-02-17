@@ -12,6 +12,6 @@ namespace LojaNet.Models.Contracts
         List<Cliente> ObterTodosClientes ();
         Cliente ObterporId(string id);
         Cliente ObterporEmail(string email);
-
+        void Excluir(string id, HttpContext httpContext);
     }
 }

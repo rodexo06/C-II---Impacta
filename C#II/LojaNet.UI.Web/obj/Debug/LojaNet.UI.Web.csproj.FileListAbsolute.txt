@@ -273,3 +273,5 @@ C:\Users\rafin\Desktop\Softwares\C-II---Impacta\C#II\LojaNet.UI.Web\obj\Debug\Lo
 C:\Users\rafin\Desktop\Softwares\C-II---Impacta\C#II\LojaNet.UI.Web\obj\Debug\LojaNet.UI.Web.csproj.CopyComplete
 C:\Users\rafin\Desktop\Softwares\C-II---Impacta\C#II\LojaNet.UI.Web\obj\Debug\LojaNet.UI.Web.dll
 C:\Users\rafin\Desktop\Softwares\C-II---Impacta\C#II\LojaNet.UI.Web\obj\Debug\LojaNet.UI.Web.pdb
+C:\Users\rlima\Desktop\Rodexo\C-II---Impacta\C#II\LojaNet.UI.Web\bin\System.Data.SqlClient.dll
+C:\Users\rlima\Desktop\Rodexo\C-II---Impacta\C#II\LojaNet.UI.Web\bin\System.Data.SqlClient.xml

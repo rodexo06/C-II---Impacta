@@ -1,0 +1,18 @@
+﻿@model LojaNet.Models.Cliente
+
+@{
+    ViewBag.Title = "Excluir";
+}
+
+<h3>Excluir</h3>
+<h4>Confirma a exclusão deste clienet?</h4>
+<p>@Model.Nome</p>
+<form method="post">
+    <input type="hidden" name="Id" value="@Model.Id" />
+    <hr />
+    <div>
+        <a href="/Cliente/Index" class="btn btn-default">Voltar</a>
+        <input type="submit" value="Excluir" class="btn btn-danger" />
+    </div>
+</form>
+

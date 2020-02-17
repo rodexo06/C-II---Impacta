@@ -18,8 +18,10 @@ namespace LojaNet.DAL
                 "@Telefone", cliente.Telefone);
         }
 
-        public void Excluir(string id)
+        public void Excluir(string id, string arquivo)
         {
+            Cliente cliente = ObterporId(id);
+            SerializerHelper.Serializar(arquivo, cliente);
             DbHelper.ExecuteNonQuery("ClienteExcluir","@Id", id);
         }
 
