@@ -1,9 +1,0 @@
-C:\Users\rlima\Desktop\Rodexo\C#II\ClientWindows\bin\Debug\ClientWindows.exe.config
-C:\Users\rlima\Desktop\Rodexo\C#II\ClientWindows\bin\Debug\ClientWindows.exe
-C:\Users\rlima\Desktop\Rodexo\C#II\ClientWindows\bin\Debug\ClientWindows.pdb
-C:\Users\rlima\Desktop\Rodexo\C#II\ClientWindows\obj\Debug\ClientWindows.csprojAssemblyReference.cache
-C:\Users\rlima\Desktop\Rodexo\C#II\ClientWindows\obj\Debug\ClientWindows.Properties.Resources.resources
-C:\Users\rlima\Desktop\Rodexo\C#II\ClientWindows\obj\Debug\ClientWindows.csproj.GenerateResource.cache
-C:\Users\rlima\Desktop\Rodexo\C#II\ClientWindows\obj\Debug\ClientWindows.exe
-C:\Users\rlima\Desktop\Rodexo\C#II\ClientWindows\obj\Debug\ClientWindows.pdb
-C:\Users\rlima\Desktop\Rodexo\C#II\ClientWindows\obj\Debug\ClientWindows.Form1.resources

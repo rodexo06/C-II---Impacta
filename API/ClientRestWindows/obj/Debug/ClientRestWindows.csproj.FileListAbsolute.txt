@@ -1,0 +1,15 @@
+C:\Users\rlima\Desktop\Rodexo\C-II---Impacta\API\ClientRestWindows\bin\Debug\ClientRestWindows.exe.config
+C:\Users\rlima\Desktop\Rodexo\C-II---Impacta\API\ClientRestWindows\bin\Debug\ClientRestWindows.exe
+C:\Users\rlima\Desktop\Rodexo\C-II---Impacta\API\ClientRestWindows\bin\Debug\ClientRestWindows.pdb
+C:\Users\rlima\Desktop\Rodexo\C-II---Impacta\API\ClientRestWindows\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rlima\Desktop\Rodexo\C-II---Impacta\API\ClientRestWindows\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\rlima\Desktop\Rodexo\C-II---Impacta\API\ClientRestWindows\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rlima\Desktop\Rodexo\C-II---Impacta\API\ClientRestWindows\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\rlima\Desktop\Rodexo\C-II---Impacta\API\ClientRestWindows\bin\Debug\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\rlima\Desktop\Rodexo\C-II---Impacta\API\ClientRestWindows\obj\Debug\ClientRestWindows.csprojAssemblyReference.cache
+C:\Users\rlima\Desktop\Rodexo\C-II---Impacta\API\ClientRestWindows\obj\Debug\ClientRestWindows.Form1.resources
+C:\Users\rlima\Desktop\Rodexo\C-II---Impacta\API\ClientRestWindows\obj\Debug\ClientRestWindows.Properties.Resources.resources
+C:\Users\rlima\Desktop\Rodexo\C-II---Impacta\API\ClientRestWindows\obj\Debug\ClientRestWindows.csproj.GenerateResource.cache
+C:\Users\rlima\Desktop\Rodexo\C-II---Impacta\API\ClientRestWindows\obj\Debug\ClientRestWindows.csproj.CopyComplete
+C:\Users\rlima\Desktop\Rodexo\C-II---Impacta\API\ClientRestWindows\obj\Debug\ClientRestWindows.exe
+C:\Users\rlima\Desktop\Rodexo\C-II---Impacta\API\ClientRestWindows\obj\Debug\ClientRestWindows.pdb
