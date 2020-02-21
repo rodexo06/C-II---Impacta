@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="LojaNet.Services.ServiceConsultaCliente" CodeBehind="ServiceConsultaCliente.svc.cs" %>

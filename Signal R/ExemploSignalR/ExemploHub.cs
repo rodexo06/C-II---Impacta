@@ -8,9 +8,9 @@ namespace ExemploSignalR
 {
     public class ExemploHub : Hub
     {
-        public void Hello()
+        public void EnviarMensagemHub(string msg)
         {
-            Clients.All.hello();
+            Clients.All.EnviarMensagemClient(msg);
         }
     }
 }

@@ -8,10 +8,10 @@ namespace LojaNet.Models.Contracts
     {
         void Incluir (Cliente cliente);
         void Alterar (Cliente cliente);
-        void Excluir (string id);
+        //void Excluir (string id);
         List<Cliente> ObterTodosClientes ();
         Cliente ObterporId(string id);
         Cliente ObterporEmail(string email);
-        void Excluir(string id, HttpContext httpContext);
+        void Excluir(string id, string httpContext);
     }
 }

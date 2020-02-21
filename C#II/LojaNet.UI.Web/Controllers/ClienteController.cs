@@ -69,7 +69,7 @@ namespace LojaNet.UI.Web.Controllers
             try
             {
                 string arquivo = HttpContext.Server.MapPath("~/App_Data/Cliente " + id + ".xml");
-                bll.Excluir(id, arquivo);
+                bll.Excluir(id, arquivo.ToString());
                 return RedirectToAction("Index");
             }
             catch (Exception ex)

@@ -38,3 +38,11 @@ go
 --	) as
 --	Update Cliente Set Nome=@Nome, Email=@Email, Telefone=@Telefone
 --	where Id=@id
+
+Create Procedure ClienteObterPorEmail
+	@email varchar(100)
+
+	as
+
+	Select id, Nome, Email, Telefone from Cliente WHERE Email = @email
+

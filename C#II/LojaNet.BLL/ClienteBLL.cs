@@ -8,7 +8,7 @@ using System.Text;
 namespace LojaNet.BLL
 {
     // Cmada de Validação de dados, regra de negocio
-    public class ClienteBLL : IClienteDAL
+    public class ClienteBLL
     {
         private ClienteDAL dal;
         public ClienteBLL()
@@ -31,7 +31,7 @@ namespace LojaNet.BLL
             {
                 throw new ApplicationException("O Id deve ser informado");
             }
-            dal.Excluir(id, arquivo);
+            dal.Excluir(id.ToString(), arquivo.ToString());
         }
 
         public void Incluir(Cliente cliente)
@@ -55,7 +55,7 @@ namespace LojaNet.BLL
 
         public Cliente ObterporEmail(string email)
         {
-            throw new NotImplementedException();
+            return dal.ObterporEmail(email);
         }
 
         public Cliente ObterporId(string id)
