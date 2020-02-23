@@ -1,4 +1,6 @@
 ﻿using LojaNet.BLL;
+using LojaNet.BLL.LojaNet.BLL;
+using LojaNet.DAL;
 using LojaNet.Models;
 using System;
 using System.Collections.Generic;
@@ -20,7 +22,8 @@ namespace LojaNet.Services
                 return null;
             }
             ClienteInfo clienteInfo = null;
-            var bll = new ClienteBLL();
+            var dal = new ClienteDAL();
+            var bll = new ClienteBLL(dal);
             var cliente = bll.ObterporEmail(email);
             if(cliente == null)
             {

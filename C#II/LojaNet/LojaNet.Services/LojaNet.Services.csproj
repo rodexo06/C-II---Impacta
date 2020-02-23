@@ -95,6 +95,10 @@
       <Project>{18a5a090-a6d5-4987-bb3e-c9c2dd22e7dd}</Project>
       <Name>LojaNet.BLL</Name>
     </ProjectReference>
+    <ProjectReference Include="..\..\LojaNet.DAL\LojaNet.DAL.csproj">
+      <Project>{A1365173-1FF2-42F0-933E-685AA490FF19}</Project>
+      <Name>LojaNet.DAL</Name>
+    </ProjectReference>
     <ProjectReference Include="..\..\LojaNet.Models\LojaNet.Models.csproj">
       <Project>{0198c44f-0943-4d04-b084-7fda95b3578d}</Project>
       <Name>LojaNet.Models</Name>

@@ -39,6 +39,12 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
     <Reference Include="Microsoft.VisualStudio.TestPlatform.TestFramework, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
       <HintPath>..\packages\MSTest.TestFramework.1.3.2\lib\net45\Microsoft.VisualStudio.TestPlatform.TestFramework.dll</HintPath>
     </Reference>
@@ -46,16 +52,25 @@
       <HintPath>..\packages\MSTest.TestFramework.1.3.2\lib\net45\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll</HintPath>
     </Reference>
     <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ClientDALTest.cs" />
+    <Compile Include="ClienteBLLTest.cs" />
+    <Compile Include="ProdutoBLLTest.cs" />
+    <Compile Include="ProdutoDALTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\..\LojaNet.BLL\LojaNet.BLL.csproj">
+      <Project>{18a5a090-a6d5-4987-bb3e-c9c2dd22e7dd}</Project>
+      <Name>LojaNet.BLL</Name>
+    </ProjectReference>
     <ProjectReference Include="..\..\LojaNet.DAL\LojaNet.DAL.csproj">
       <Project>{a1365173-1ff2-42f0-933e-685aa490ff19}</Project>
       <Name>LojaNet.DAL</Name>
@@ -63,6 +78,10 @@
     <ProjectReference Include="..\..\LojaNet.Models\LojaNet.Models.csproj">
       <Project>{0198c44f-0943-4d04-b084-7fda95b3578d}</Project>
       <Name>LojaNet.Models</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\LojaNet.UI.Web\LojaNet.UI.Web.csproj">
+      <Project>{6db3bbc9-f0fd-4e21-83b3-f3ff99ca27d9}</Project>
+      <Name>LojaNet.UI.Web</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />

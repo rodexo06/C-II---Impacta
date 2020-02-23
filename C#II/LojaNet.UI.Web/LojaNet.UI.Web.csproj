@@ -45,6 +45,12 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\LojaNet\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\LojaNet\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System" />
     <Reference Include="System.Data" />
@@ -120,11 +126,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="App_Codigo\AppContainer.cs" />
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\ClienteController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\ProdutoController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -169,6 +177,11 @@
     <Content Include="Views\Cliente\Detalhes.cshtml" />
     <Content Include="Views\Cliente\Alterar.cshtml" />
     <Content Include="Views\Cliente\Excluir.cshtml" />
+    <Content Include="Views\Produto\Detalhes.cshtml" />
+    <Content Include="Views\Produto\Excluir.cshtml" />
+    <Content Include="Views\Produto\Index.cshtml" />
+    <Content Include="Views\Produto\Alterar.cshtml" />
+    <Content Include="Views\Produto\Incluir.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -192,10 +205,17 @@
       <Project>{18a5a090-a6d5-4987-bb3e-c9c2dd22e7dd}</Project>
       <Name>LojaNet.BLL</Name>
     </ProjectReference>
+    <ProjectReference Include="..\LojaNet.DAL\LojaNet.DAL.csproj">
+      <Project>{a1365173-1ff2-42f0-933e-685aa490ff19}</Project>
+      <Name>LojaNet.DAL</Name>
+    </ProjectReference>
     <ProjectReference Include="..\LojaNet.Models\LojaNet.Models.csproj">
       <Project>{0198c44f-0943-4d04-b084-7fda95b3578d}</Project>
       <Name>LojaNet.Models</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

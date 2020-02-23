@@ -6,11 +6,11 @@ using System.Data;
 
 namespace LojaNet.DAL
 {
-    class DbHelper
+    public class DbHelper
     {
-        private static string conexao
+        public static string conexao
         {
-            get { return "Data Source=desktop-j2ra9ij;Initial Catalog=LojaNet;Integrated Security=True"; }
+            get { return "Data Source=LAPTOP-DPHI4379\\RODEXO;Initial Catalog=LojaNet;Integrated Security=True"; }
         }
 
         public static IDataReader ExecuteReader(string storedProcedure, params object[] parametros)

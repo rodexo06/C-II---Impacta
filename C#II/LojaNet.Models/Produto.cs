@@ -8,7 +8,7 @@ namespace LojaNet.Models
     {
         public string Id { get; set; }
         public string Nome { get; set; }
-        public decimal Preco { get; set; }
-        public decimal Estoque { get; set; }
+        public float Preco { get; set; }
+        public float Estoque { get; set; }
     }
 }

@@ -22,3 +22,10 @@ C:\Users\rafin\Desktop\Softwares\C-II---Impacta\C#II\LojaNet.Models\obj\Debug\ne
 C:\Users\rafin\Desktop\Softwares\C-II---Impacta\C#II\LojaNet.Models\obj\Debug\netstandard2.0\LojaNet.Models.AssemblyInfo.cs
 C:\Users\rafin\Desktop\Softwares\C-II---Impacta\C#II\LojaNet.Models\obj\Debug\netstandard2.0\LojaNet.Models.dll
 C:\Users\rafin\Desktop\Softwares\C-II---Impacta\C#II\LojaNet.Models\obj\Debug\netstandard2.0\LojaNet.Models.pdb
+C:\Users\rafin\Desktop\Loja net\C-II---Impacta\C#II\LojaNet.Models\bin\Debug\netstandard2.0\LojaNet.Models.deps.json
+C:\Users\rafin\Desktop\Loja net\C-II---Impacta\C#II\LojaNet.Models\bin\Debug\netstandard2.0\LojaNet.Models.dll
+C:\Users\rafin\Desktop\Loja net\C-II---Impacta\C#II\LojaNet.Models\bin\Debug\netstandard2.0\LojaNet.Models.pdb
+C:\Users\rafin\Desktop\Loja net\C-II---Impacta\C#II\LojaNet.Models\obj\Debug\netstandard2.0\LojaNet.Models.AssemblyInfoInputs.cache
+C:\Users\rafin\Desktop\Loja net\C-II---Impacta\C#II\LojaNet.Models\obj\Debug\netstandard2.0\LojaNet.Models.AssemblyInfo.cs
+C:\Users\rafin\Desktop\Loja net\C-II---Impacta\C#II\LojaNet.Models\obj\Debug\netstandard2.0\LojaNet.Models.dll
+C:\Users\rafin\Desktop\Loja net\C-II---Impacta\C#II\LojaNet.Models\obj\Debug\netstandard2.0\LojaNet.Models.pdb

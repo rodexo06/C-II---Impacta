@@ -37,3 +37,16 @@ C:\Users\rafin\Desktop\Softwares\C-II---Impacta\C#II\LojaNet.BLL\obj\Debug\netst
 C:\Users\rafin\Desktop\Softwares\C-II---Impacta\C#II\LojaNet.BLL\obj\Debug\netstandard2.0\LojaNet.BLL.csproj.CopyComplete
 C:\Users\rafin\Desktop\Softwares\C-II---Impacta\C#II\LojaNet.BLL\obj\Debug\netstandard2.0\LojaNet.BLL.dll
 C:\Users\rafin\Desktop\Softwares\C-II---Impacta\C#II\LojaNet.BLL\obj\Debug\netstandard2.0\LojaNet.BLL.pdb
+C:\Users\rafin\Desktop\Loja net\C-II---Impacta\C#II\LojaNet.BLL\bin\Debug\netstandard2.0\LojaNet.BLL.deps.json
+C:\Users\rafin\Desktop\Loja net\C-II---Impacta\C#II\LojaNet.BLL\bin\Debug\netstandard2.0\LojaNet.BLL.dll
+C:\Users\rafin\Desktop\Loja net\C-II---Impacta\C#II\LojaNet.BLL\bin\Debug\netstandard2.0\LojaNet.BLL.pdb
+C:\Users\rafin\Desktop\Loja net\C-II---Impacta\C#II\LojaNet.BLL\bin\Debug\netstandard2.0\LojaNet.DAL.dll
+C:\Users\rafin\Desktop\Loja net\C-II---Impacta\C#II\LojaNet.BLL\bin\Debug\netstandard2.0\LojaNet.Models.dll
+C:\Users\rafin\Desktop\Loja net\C-II---Impacta\C#II\LojaNet.BLL\bin\Debug\netstandard2.0\LojaNet.DAL.pdb
+C:\Users\rafin\Desktop\Loja net\C-II---Impacta\C#II\LojaNet.BLL\bin\Debug\netstandard2.0\LojaNet.Models.pdb
+C:\Users\rafin\Desktop\Loja net\C-II---Impacta\C#II\LojaNet.BLL\obj\Debug\netstandard2.0\LojaNet.BLL.csprojAssemblyReference.cache
+C:\Users\rafin\Desktop\Loja net\C-II---Impacta\C#II\LojaNet.BLL\obj\Debug\netstandard2.0\LojaNet.BLL.AssemblyInfoInputs.cache
+C:\Users\rafin\Desktop\Loja net\C-II---Impacta\C#II\LojaNet.BLL\obj\Debug\netstandard2.0\LojaNet.BLL.AssemblyInfo.cs
+C:\Users\rafin\Desktop\Loja net\C-II---Impacta\C#II\LojaNet.BLL\obj\Debug\netstandard2.0\LojaNet.BLL.csproj.CopyComplete
+C:\Users\rafin\Desktop\Loja net\C-II---Impacta\C#II\LojaNet.BLL\obj\Debug\netstandard2.0\LojaNet.BLL.dll
+C:\Users\rafin\Desktop\Loja net\C-II---Impacta\C#II\LojaNet.BLL\obj\Debug\netstandard2.0\LojaNet.BLL.pdb

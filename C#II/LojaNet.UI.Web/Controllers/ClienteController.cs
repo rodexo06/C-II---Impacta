@@ -1,5 +1,9 @@
 ﻿using LojaNet.BLL;
+#pragma warning disable CS0234 // O nome de tipo ou namespace "DAL" não existe no namespace "LojaNet" (você está sem uma referência de assembly?)
+using LojaNet.DAL;
+#pragma warning restore CS0234 // O nome de tipo ou namespace "DAL" não existe no namespace "LojaNet" (você está sem uma referência de assembly?)
 using LojaNet.Models;
+using LojaNet.Models.Contracts;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,10 +14,10 @@ namespace LojaNet.UI.Web.Controllers
 {
     public class ClienteController : Controller
     {
-        ClienteBLL bll;
+        private IClienteDAL bll;
         public ClienteController()
         {
-            this.bll = new ClienteBLL();
+            bll = AppContainer.ObterClienteBLL();
         }
         public ActionResult Incluir()
         {
