@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rafin\\Desktop\\Loja net\\C-II---Impacta\\C#II\\LojaNet.DAL\\LojaNet.DAL.csproj": {}
+    "C:\\Users\\rafin\\Desktop\\Softwares\\C-II---Impacta\\C#II\\LojaNet.DAL\\LojaNet.DAL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rafin\\Desktop\\Loja net\\C-II---Impacta\\C#II\\LojaNet.DAL\\LojaNet.DAL.csproj": {
+    "C:\\Users\\rafin\\Desktop\\Softwares\\C-II---Impacta\\C#II\\LojaNet.DAL\\LojaNet.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rafin\\Desktop\\Loja net\\C-II---Impacta\\C#II\\LojaNet.DAL\\LojaNet.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\rafin\\Desktop\\Softwares\\C-II---Impacta\\C#II\\LojaNet.DAL\\LojaNet.DAL.csproj",
         "projectName": "LojaNet.DAL",
-        "projectPath": "C:\\Users\\rafin\\Desktop\\Loja net\\C-II---Impacta\\C#II\\LojaNet.DAL\\LojaNet.DAL.csproj",
+        "projectPath": "C:\\Users\\rafin\\Desktop\\Softwares\\C-II---Impacta\\C#II\\LojaNet.DAL\\LojaNet.DAL.csproj",
         "packagesPath": "C:\\Users\\rafin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rafin\\Desktop\\Loja net\\C-II---Impacta\\C#II\\LojaNet.DAL\\obj\\",
+        "outputPath": "C:\\Users\\rafin\\Desktop\\Softwares\\C-II---Impacta\\C#II\\LojaNet.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -31,8 +31,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\rafin\\Desktop\\Loja net\\C-II---Impacta\\C#II\\LojaNet.Models\\LojaNet.Models.csproj": {
-                "projectPath": "C:\\Users\\rafin\\Desktop\\Loja net\\C-II---Impacta\\C#II\\LojaNet.Models\\LojaNet.Models.csproj"
+              "C:\\Users\\rafin\\Desktop\\Softwares\\C-II---Impacta\\C#II\\LojaNet.Models\\LojaNet.Models.csproj": {
+                "projectPath": "C:\\Users\\rafin\\Desktop\\Softwares\\C-II---Impacta\\C#II\\LojaNet.Models\\LojaNet.Models.csproj"
               }
             }
           }
@@ -75,14 +75,14 @@
         }
       }
     },
-    "C:\\Users\\rafin\\Desktop\\Loja net\\C-II---Impacta\\C#II\\LojaNet.Models\\LojaNet.Models.csproj": {
+    "C:\\Users\\rafin\\Desktop\\Softwares\\C-II---Impacta\\C#II\\LojaNet.Models\\LojaNet.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rafin\\Desktop\\Loja net\\C-II---Impacta\\C#II\\LojaNet.Models\\LojaNet.Models.csproj",
+        "projectUniqueName": "C:\\Users\\rafin\\Desktop\\Softwares\\C-II---Impacta\\C#II\\LojaNet.Models\\LojaNet.Models.csproj",
         "projectName": "LojaNet.Models",
-        "projectPath": "C:\\Users\\rafin\\Desktop\\Loja net\\C-II---Impacta\\C#II\\LojaNet.Models\\LojaNet.Models.csproj",
+        "projectPath": "C:\\Users\\rafin\\Desktop\\Softwares\\C-II---Impacta\\C#II\\LojaNet.Models\\LojaNet.Models.csproj",
         "packagesPath": "C:\\Users\\rafin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rafin\\Desktop\\Loja net\\C-II---Impacta\\C#II\\LojaNet.Models\\obj\\",
+        "outputPath": "C:\\Users\\rafin\\Desktop\\Softwares\\C-II---Impacta\\C#II\\LojaNet.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

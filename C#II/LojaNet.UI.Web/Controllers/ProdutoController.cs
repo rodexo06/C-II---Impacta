@@ -8,6 +8,7 @@ using System.Web.Mvc;
 
 namespace LojaNet.UI.Web.Controllers
 {
+    [Authorize]
     public class ProdutoController : Controller
     {
         private IProdutosDAL bll;

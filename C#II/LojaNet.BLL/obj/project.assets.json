@@ -935,11 +935,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rafin\\Desktop\\Loja net\\C-II---Impacta\\C#II\\LojaNet.BLL\\LojaNet.BLL.csproj",
+      "projectUniqueName": "C:\\Users\\rafin\\Desktop\\Softwares\\C-II---Impacta\\C#II\\LojaNet.BLL\\LojaNet.BLL.csproj",
       "projectName": "LojaNet.BLL",
-      "projectPath": "C:\\Users\\rafin\\Desktop\\Loja net\\C-II---Impacta\\C#II\\LojaNet.BLL\\LojaNet.BLL.csproj",
+      "projectPath": "C:\\Users\\rafin\\Desktop\\Softwares\\C-II---Impacta\\C#II\\LojaNet.BLL\\LojaNet.BLL.csproj",
       "packagesPath": "C:\\Users\\rafin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rafin\\Desktop\\Loja net\\C-II---Impacta\\C#II\\LojaNet.BLL\\obj\\",
+      "outputPath": "C:\\Users\\rafin\\Desktop\\Softwares\\C-II---Impacta\\C#II\\LojaNet.BLL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -959,11 +959,11 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\rafin\\Desktop\\Loja net\\C-II---Impacta\\C#II\\LojaNet.DAL\\LojaNet.DAL.csproj": {
-              "projectPath": "C:\\Users\\rafin\\Desktop\\Loja net\\C-II---Impacta\\C#II\\LojaNet.DAL\\LojaNet.DAL.csproj"
+            "C:\\Users\\rafin\\Desktop\\Softwares\\C-II---Impacta\\C#II\\LojaNet.DAL\\LojaNet.DAL.csproj": {
+              "projectPath": "C:\\Users\\rafin\\Desktop\\Softwares\\C-II---Impacta\\C#II\\LojaNet.DAL\\LojaNet.DAL.csproj"
             },
-            "C:\\Users\\rafin\\Desktop\\Loja net\\C-II---Impacta\\C#II\\LojaNet.Models\\LojaNet.Models.csproj": {
-              "projectPath": "C:\\Users\\rafin\\Desktop\\Loja net\\C-II---Impacta\\C#II\\LojaNet.Models\\LojaNet.Models.csproj"
+            "C:\\Users\\rafin\\Desktop\\Softwares\\C-II---Impacta\\C#II\\LojaNet.Models\\LojaNet.Models.csproj": {
+              "projectPath": "C:\\Users\\rafin\\Desktop\\Softwares\\C-II---Impacta\\C#II\\LojaNet.Models\\LojaNet.Models.csproj"
             }
           }
         }

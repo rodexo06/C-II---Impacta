@@ -372,3 +372,24 @@ C:\Users\rafin\Desktop\Loja net\C-II---Impacta\C#II\LojaNet.UI.Web\bin\EntityFra
 C:\Users\rafin\Desktop\Loja net\C-II---Impacta\C#II\LojaNet.UI.Web\bin\EntityFramework.SqlServer.dll
 C:\Users\rafin\Desktop\Loja net\C-II---Impacta\C#II\LojaNet.UI.Web\bin\EntityFramework.xml
 C:\Users\rafin\Desktop\Loja net\C-II---Impacta\C#II\LojaNet.UI.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\rafin\Desktop\Softwares\C-II---Impacta\C#II\LojaNet.UI.Web\bin\EntityFramework.dll
+C:\Users\rafin\Desktop\Softwares\C-II---Impacta\C#II\LojaNet.UI.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\rafin\Desktop\Softwares\C-II---Impacta\C#II\LojaNet.UI.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\rafin\Desktop\Softwares\C-II---Impacta\C#II\LojaNet.UI.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\rafin\Desktop\Softwares\C-II---Impacta\C#II\LojaNet.UI.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\rafin\Desktop\Softwares\C-II---Impacta\C#II\LojaNet.UI.Web\bin\Microsoft.Owin.dll
+C:\Users\rafin\Desktop\Softwares\C-II---Impacta\C#II\LojaNet.UI.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\rafin\Desktop\Softwares\C-II---Impacta\C#II\LojaNet.UI.Web\bin\Microsoft.Owin.Security.dll
+C:\Users\rafin\Desktop\Softwares\C-II---Impacta\C#II\LojaNet.UI.Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\rafin\Desktop\Softwares\C-II---Impacta\C#II\LojaNet.UI.Web\bin\Owin.dll
+C:\Users\rafin\Desktop\Softwares\C-II---Impacta\C#II\LojaNet.UI.Web\bin\EntityFramework.xml
+C:\Users\rafin\Desktop\Softwares\C-II---Impacta\C#II\LojaNet.UI.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\rafin\Desktop\Softwares\C-II---Impacta\C#II\LojaNet.UI.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\rafin\Desktop\Softwares\C-II---Impacta\C#II\LojaNet.UI.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\rafin\Desktop\Softwares\C-II---Impacta\C#II\LojaNet.UI.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\rafin\Desktop\Softwares\C-II---Impacta\C#II\LojaNet.UI.Web\bin\Microsoft.Owin.xml
+C:\Users\rafin\Desktop\Softwares\C-II---Impacta\C#II\LojaNet.UI.Web\bin\Microsoft.Owin.Security.xml
+C:\Users\rafin\Desktop\Softwares\C-II---Impacta\C#II\LojaNet.UI.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\rafin\Desktop\Softwares\C-II---Impacta\C#II\LojaNet.UI.Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\rafin\Desktop\Softwares\C-II---Impacta\C#II\LojaNet.UI.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\rafin\Desktop\Softwares\C-II---Impacta\C#II\LojaNet.UI.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
